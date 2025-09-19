@@ -1,0 +1,5 @@
+{
+  "name": "Python AI Coder",
+  "description": "An AI-powered application to generate, explain, and refactor Python code using the Gemini API. Perfect for developers looking to accelerate their workflow and learn best practices.",
+  "requestFramePermissions": []
+}
